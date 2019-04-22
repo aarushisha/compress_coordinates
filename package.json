@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "fastintcompression": "0.0.2",
+    "lz-string": "1.4.4"
+  }
+}
